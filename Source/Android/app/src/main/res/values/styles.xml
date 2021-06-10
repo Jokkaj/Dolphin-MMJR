@@ -6,6 +6,7 @@
         <item name="colorOnPrimary">@android:color/white</item>
         <item name="textColor">@color/text</item>
         <item name="colorDivider">@color/divider</item>
+        <item name="android:windowLayoutInDisplayCutoutMode">shortEdges</item>
 
         <!-- Enable window content transitions -->
         <item name="android:windowContentTransitions">true</item>
